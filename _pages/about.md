@@ -34,3 +34,14 @@ Publications
     **Ryan Goldade**, Christopher Batty, and Chris Wojtan  
     Computer Graphics Forum (Eurographics) 2016  
     [[Project page](http://poisson.cs.uwaterloo.ca/errorcorrection/)]
+
+1. Towards Real-time Sea-floor Surface Reconstruction and Classification using 3-D Side-scan Sonar  
+    **Ryan Goldade**  
+    MASc Thesis (Simon Fraser University) 2014  
+    [[Project page](http://summit.sfu.ca/item/14384)]
+
+1. Real Time Smoke and Fire using Triangle Meshes  
+    **Ryan Goldade**, Todd Keeler, Robert Bridson  
+    Symposium on Computer Animation 2013 (Poster and demo)(**best poster winner**)  
+    [[Project page](https://cs.uwaterloo.ca/~rgoldade/sca/)]
+    
