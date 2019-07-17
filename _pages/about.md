@@ -15,6 +15,6 @@ I also work part-time for [SideFX Software](https://www.sidefx.com/) as a softwa
 Publications
 ======
 
-1. An Adaptive Variational Finite Difference Framework for Efficient Symmetric Octree Viscosity\
-    *ACM Transaction on Graphics (SIGGRAPH Proceedings) 2019*\
+1. An Adaptive Variational Finite Difference Framework for Efficient Symmetric Octree Viscosity  
+    *ACM Transaction on Graphics (SIGGRAPH Proceedings) 2019*  
     [[Project page](https://cs.uwaterloo.ca/~rgoldade/adaptiveviscosity/)] [[Source code](https://github.com/rgoldade/AdaptiveViscositySolver)]
