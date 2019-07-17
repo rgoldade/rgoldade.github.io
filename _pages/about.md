@@ -20,12 +20,13 @@ Publications
     *ACM Transaction on Graphics (SIGGRAPH Proceedings) 2019*  
     [[Project page](https://cs.uwaterloo.ca/~rgoldade/adaptiveviscosity/)] [[Source code](https://github.com/rgoldade/AdaptiveViscositySolver)]
 
-2. An Efficient Geometric Multigrid Solver for Viscous Liquids  
-    Mridul Aanjaneya*, Chengguizi Han, **Ryan Goldade**, and Christopher Batty (*Lead and supervising author.)
+1. An Efficient Geometric Multigrid Solver for Viscous Liquids  
+    Mridul Aanjaneya*, Chengguizi Han, **Ryan Goldade**, and Christopher Batty (*Lead and supervising author.)  
     *Proceedings of the ACM in Computer Graphics and Interactive Techniques (SCA proceedings) 2019*  
     [[Project page](https://orionquest.github.io/papers/EGMVL/paper.html)]
 
-3. Constraint Bubbles: Adding Efficient Zero-Density Bubbles to Incompressible Free Surface Flow  
-    **Ryan Goldade** and Christopher Batty
-    arXiv pre-print
+1. Constraint Bubbles: Adding Efficient Zero-Density Bubbles to Incompressible Free Surface Flow  
+    **Ryan Goldade** and Christopher Batty  
+    arXiv pre-print  
     [[Paper](https://arxiv.org/abs/1711.11470)]
+    
