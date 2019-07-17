@@ -18,3 +18,7 @@ Publications
 1. An Adaptive Variational Finite Difference Framework for Efficient Symmetric Octree Viscosity  
     *ACM Transaction on Graphics (SIGGRAPH Proceedings) 2019*  
     [[Project page](https://cs.uwaterloo.ca/~rgoldade/adaptiveviscosity/)] [[Source code](https://github.com/rgoldade/AdaptiveViscositySolver)]
+
+2. An Efficient Geometric Multigrid Solver for Viscous Liquids  
+    *Proceedings of the ACM in Computer Graphics and Interactive Techniques (SCA proceedings) 2019*  
+    [[Project page](https://orionquest.github.io/papers/EGMVL/paper.html)]
