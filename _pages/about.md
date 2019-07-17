@@ -15,32 +15,32 @@ I also work part-time for [SideFX Software](https://www.sidefx.com/) as a softwa
 Publications
 ======
 
-1. An Adaptive Variational Finite Difference Framework for Efficient Symmetric Octree Viscosity  
+* An Adaptive Variational Finite Difference Framework for Efficient Symmetric Octree Viscosity  
     **Ryan Goldade**, Yipeng Wang, Mridual Aanjaneya, and Christopher Batty  
     *ACM Transaction on Graphics (SIGGRAPH Proceedings) 2019*  
     [[Project page](https://cs.uwaterloo.ca/~rgoldade/adaptiveviscosity/)] [[Source code](https://github.com/rgoldade/AdaptiveViscositySolver)]
 
-1. An Efficient Geometric Multigrid Solver for Viscous Liquids  
+* An Efficient Geometric Multigrid Solver for Viscous Liquids  
     Mridul Aanjaneya*, Chengguizi Han, **Ryan Goldade**, and Christopher Batty (*Lead and supervising author.)  
     *Proceedings of the ACM in Computer Graphics and Interactive Techniques (SCA proceedings) 2019*  
     [[Project page](https://orionquest.github.io/papers/EGMVL/paper.html)]
 
-1. Constraint Bubbles: Adding Efficient Zero-Density Bubbles to Incompressible Free Surface Flow  
+* Constraint Bubbles: Adding Efficient Zero-Density Bubbles to Incompressible Free Surface Flow  
     **Ryan Goldade** and Christopher Batty  
     arXiv pre-print  
     [[Paper](https://arxiv.org/abs/1711.11470)]
     
-1. A Practical Method for High-Resolution Embedded Liquid Surfaces  
+* A Practical Method for High-Resolution Embedded Liquid Surfaces  
     **Ryan Goldade**, Christopher Batty, and Chris Wojtan  
     Computer Graphics Forum (Eurographics) 2016  
     [[Project page](http://poisson.cs.uwaterloo.ca/errorcorrection/)]
 
-1. Towards Real-time Sea-floor Surface Reconstruction and Classification using 3-D Side-scan Sonar  
+* Towards Real-time Sea-floor Surface Reconstruction and Classification using 3-D Side-scan Sonar  
     **Ryan Goldade**  
     MASc Thesis (Simon Fraser University) 2014  
     [[Project page](http://summit.sfu.ca/item/14384)]
 
-1. Real Time Smoke and Fire using Triangle Meshes  
+* Real Time Smoke and Fire using Triangle Meshes  
     **Ryan Goldade**, Todd Keeler, Robert Bridson  
     Symposium on Computer Animation 2013 (Poster and demo)(**best poster winner**)  
     [[Project page](https://cs.uwaterloo.ca/~rgoldade/sca/)]
