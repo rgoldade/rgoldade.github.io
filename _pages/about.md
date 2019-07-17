@@ -30,3 +30,7 @@ Publications
     arXiv pre-print  
     [[Paper](https://arxiv.org/abs/1711.11470)]
     
+1. A Practical Method for High-Resolution Embedded Liquid Surfaces
+    **Ryan Goldade**, Christopher Batty, and Chris Wojtan  
+    Computer Graphics Forum (Eurographics) 2016  
+    [[Project page](http://poisson.cs.uwaterloo.ca/errorcorrection/)]
