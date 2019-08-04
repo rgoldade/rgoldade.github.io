@@ -68,3 +68,16 @@ Education
     *MASc 2014*  
 * Simon Fraser University - School of Engineering Science  
     *BASc 2009*  
+    
+Work Experience
+======
+
+* Weta Digital   
+    *June 2018 - July 2018*  
+* SideFX Software  
+    *April 2016 - Present*  
+* IST Austria  
+    *February 2014 - May 2014*  
+* Microsoft Canada  
+    *November 2012 - August 2013*
+ 
