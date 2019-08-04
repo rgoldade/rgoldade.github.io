@@ -79,5 +79,4 @@ Work Experience
 * IST Austria  
     *February 2014 - May 2014*  
 * Microsoft Canada  
-    *November 2012 - August 2013*
- 
+    *November 2012 - August 2013*  
