@@ -48,13 +48,13 @@ Publications
 Awards
 ======
 
-* Queen Elizabeth II Graduate Scholarship in Science & Technology
-    *Year: 2016. Value: $15,000*
-* President's Graduate Scholarship
-    *Year: 2016. Value: $10,000*
-* Graduate Excellence Award In Computer Science
-    *Year: 2016. Value: $5,000
-* Graduate Excellence Award In Computer Science
-    *Year: 2015. Value: $5,000
-* University of Waterloo Graduate Entrance Scholarship
-    *Year: 2014. Value: $5,000
+* Queen Elizabeth II Graduate Scholarship in Science & Technology  
+    *Year: 2016. Value: $15,000*  
+* President's Graduate Scholarship  
+    *Year: 2016. Value: $10,000*  
+* Graduate Excellence Award In Computer Science  
+    *Year: 2016. Value: $5,000  
+* Graduate Excellence Award In Computer Science  
+    *Year: 2015. Value: $5,000  
+* University of Waterloo Graduate Entrance Scholarship  
+    *Year: 2014. Value: $5,000  
