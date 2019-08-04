@@ -21,7 +21,7 @@ Publications
     [[Project page](https://cs.uwaterloo.ca/~rgoldade/adaptiveviscosity/)] [[Source code](https://github.com/rgoldade/AdaptiveViscositySolver)]
 
 * An Efficient Geometric Multigrid Solver for Viscous Liquids  
-    Mridul Aanjaneya*, Chengguizi Han, **Ryan Goldade**, and Christopher Batty (*Lead and supervising author.)  
+    Mridul Aanjaneya<sup>*</sup>, Chengguizi Han, **Ryan Goldade**, and Christopher Batty (<sup>*</sup>Lead and supervising author.)  
     *Proceedings of the ACM in Computer Graphics and Interactive Techniques (SCA proceedings) 2019*  
     [[Project page](https://orionquest.github.io/papers/EGMVL/paper.html)]
 
