@@ -58,3 +58,13 @@ Awards
     *Year: 2015. Value: $5,000*  
 * University of Waterloo Graduate Entrance Scholarship  
     *Year: 2014. Value: $5,000*  
+
+Education
+======
+
+* University of Waterloo
+    *PhD candidate (present)*
+* Simon Fraser University
+    *MASc 2014*
+* Simon Fraser University
+    *BASc 2009*
