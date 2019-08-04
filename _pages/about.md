@@ -62,9 +62,9 @@ Awards
 Education
 ======
 
-* University of Waterloo
-    *PhD candidate (present)*
-* Simon Fraser University
-    *MASc 2014*
-* Simon Fraser University
-    *BASc 2009*
+* University of Waterloo - School of Computer Science  
+    *PhD candidate (present)*  
+* Simon Fraser University - School of Engineering Science  
+    *MASc 2014*  
+* Simon Fraser University - School of Engineering Science  
+    *BASc 2009*  
