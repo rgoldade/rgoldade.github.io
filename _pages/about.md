@@ -77,6 +77,6 @@ Work Experience
 * SideFX Software  
     *April 2016 - Present*  
 * IST Austria  
-    *February 2014 - May 2014*  
+    *February 2014 - June 2014*  
 * Microsoft Canada  
     *November 2012 - October 2013*  
