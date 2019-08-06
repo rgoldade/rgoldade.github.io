@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ryan Goldade"
 title_separator          : "-"
 name                     : &name "Ryan Goldade"
-description              : &description "PhD student at University of Waterloo"
+description              : &description "PhD candidate at University of Waterloo"
 url                      : https://rgoldade.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rgoldade.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ryan Goldade"
   avatar           : "profile.png"
-  bio              : "PhD student @ Waterloo. Software developer @ SideFX."
+  bio              : "PhD candidate @ Waterloo. Software developer @ SideFX."
   location         : "Toronto"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=S6p28hUAAAAJ&hl=en"
-  email            :
+  email            : "ryangoldade AT gmail dot com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
