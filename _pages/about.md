@@ -24,11 +24,6 @@ Publications
     Mridul Aanjaneya<sup>1</sup>, Chengguizi Han, **Ryan Goldade**, and Christopher Batty (<sup>1</sup>Lead and supervising author.)  
     *Proceedings of the ACM in Computer Graphics and Interactive Techniques (SCA proceedings) 2019*  
     [[Project page](https://orionquest.github.io/papers/EGMVL/paper.html)]
-
-* Constraint Bubbles: Adding Efficient Zero-Density Bubbles to Incompressible Free Surface Flow  
-    **Ryan Goldade** and Christopher Batty  
-    arXiv pre-print  
-    [[Paper](https://arxiv.org/abs/1711.11470)]
     
 * A Practical Method for High-Resolution Embedded Liquid Surfaces  
     **Ryan Goldade**, Christopher Batty, and Chris Wojtan  
