@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+
+<!-- Format and styling following Etienne Vouga's "Design of Self-supporting Surfaces" project page. -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>An Adaptive Variational Finite Difference Framework for Efficient Symmetric Octree Viscosity</title>
+<link href="viscosity.css" rel="stylesheet" type="text/css" >
+<meta name="description" content="Project page for 'An Adaptive Variational Finite Difference Framework for Efficient Symmetric Octree Viscosity'" >
+<meta name="keywords" content="viscosity, fluid simulations, siggraph" >
+<meta name="robots" content="all, index, follow" >
+<meta name="author" content="Ryan Goldade" >
+<meta name="author-url" content="https://cs.uwaterloo.ca/~rgoldade/" >
+
+</head>
+<body>
+
+<div id="body">
+<div class="center">
+  <h1>An Adaptive Variational Finite Difference Framework for Efficient Symmetric Octree Viscosity</h1>
+
+<table align="center"><!-- class="center"> -->
+<tr>
+<td><span class="author"><a href="https://cs.uwaterloo.ca/~rgoldade/">Ryan Goldade</a></span> </td>
+<td><span class="author"><a href="https://cs.uwaterloo.ca/~y2257wan/">Yipeng Wang</a></span> </td>
+<td><span class="author"><a href="https://www.cs.rutgers.edu/~ma635/">Mridul Aanjaneya</a></span> </td>
+<td><span class="author"><a href="https://cs.uwaterloo.ca/~c2batty/">Christopher Batty</a></span> </td>
+</tr>
+<tr>
+<td><span class="author"><a href="http://cs.uwaterloo.ca/">University of Waterloo</a></span> </td>
+<td><span class="author"><a href="http://cs.uwaterloo.ca/">University of Waterloo</a></span> </td>
+<td><span class="author"><a href="https://www.rutgers.edu/">Rutgers University</a></span> </td>
+<td><span class="author"><a href="http://cs.uwaterloo.ca/">University of Waterloo</a></span> </td>
+</tr>
+</table>
+
+<h3 class="publication">ACM Transaction on Graphics (SIGGRAPH proceedings), Vol. 38, No. 4, Article 94, 2019</h3>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/SyYejYA4eXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
+<!--<img alt="" src="title.jpg" width="800">-->
+</div>
+
+<div id="info" class="section">
+  <h3 class="heading">Abstract</h3>
+  <p class="abstract">
+While pressure forces are often the bottleneck in (near-)inviscid fluid simulations, viscosity can impose orders of magnitude greater computational costs at lower Reynolds numbers.
+We propose an implicit octree finite difference discretization that significantly accelerates the solution of the free surface viscosity equations using adaptive staggered grids, while supporting viscous buckling and rotation effects, variable viscosity, and interaction with scripted moving solids.
+In experimental comparisons against regular grids, our method reduced the number of active velocity degrees of freedom by as much as a factor of 7.7 and reduced linear system solution times by factors between 3.8 and 9.4.
+We achieve this by developing a novel adaptive variational finite difference methodology for octrees and applying it to the optimization form of the viscosity problem.
+This yields a linear system that is symmetric positive definite by construction, unlike naive finite difference/volume methods, and much sparser than a hypothetical finite element alternative.
+Grid refinement studies show spatial convergence at first order in L-infinity and second order in L-1, while the significantly smaller size of the octree linear systems allows for the solution of viscous forces at higher effective resolutions than with regular grids.
+We demonstrate the practical benefits of our adaptive scheme by replacing the regular grid viscosity step of a commercial liquid simulator (Houdini) to yield large speed-ups, and by incorporating it into an existing inviscid octree simulator to add support for viscous flows.
+Animations of viscous liquids pouring, bending, stirring, buckling, and melting illustrate that our octree method offers significant computational gains and excellent visual consistency with its regular grid counterpart.
+  </p>
+</div>
+
+<div id="files" class="section" align="center">
+  <h3 class="heading">Files</h3>
+  <dl class="filelist">
+    <dt>Paper: <dd> <span class="file">[<a href="https://cs.uwaterloo.ca/~c2batty/papers/Goldade2019/adaptive_viscosity.pdf">PDF</a>]</span>
+    <dt>Supplemental: <dd> <span class="file">[<a href="https://cs.uwaterloo.ca/~c2batty/papers/Goldade2019/adaptive_viscosity_supplemental.pdf">PDF</a>]</span>
+    <dt>Video: <dd> <span class="file">[<a href="https://cs.uwaterloo.ca/~c2batty/papers/Goldade2019/adaptive_viscosity.mp4">MP4</a>]
+    <dt>Code: <dd> <span class="file">[<a href="https://github.com/rgoldade/AdaptiveViscositySolver">Github</a>]
+  </dl>
+</div>
+<!--
+<div class="bib">
+  <h3 class="heading">BibTeX</h3> 
+  <pre>
+  </pre>
+</div>
+-->
+
+<div class="acknowledgement">
+  <h3 class="heading">Acknowledgements</h3>
+  <p>
+    This work was supported in part by the Natural Sciences and Engineering Research Council of Canada (RGPIN-04360-2014, CRDPJ-499952-2016) and the Rutgers University start-up grant.
+    We would like to thank Cristin Barghiel from SideFX Software for their generous software donation as well as their dynamics team for their helpful discussions on maximizing parallelism.
+    We would also like to thank the RenderMan team for their education licenses and the anonymous reviewers for their valuable feedback.
+  </p>
+</div>
+
+</div>
+
+</html>
