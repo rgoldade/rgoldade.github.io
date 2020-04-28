@@ -18,7 +18,7 @@ Publications
 * An Adaptive Variational Finite Difference Framework for Efficient Symmetric Octree Viscosity  
     **Ryan Goldade**, Yipeng Wang, Mridul Aanjaneya, and Christopher Batty  
     *ACM Transaction on Graphics (SIGGRAPH Proceedings) 2019*  
-    [[Project page](rgoldade.github.io/_publications/adaptiveviscosity/)] [[Source code](https://github.com/rgoldade/AdaptiveViscositySolver)]
+    [[Project page](https://cs.uwaterloo.ca/~rgoldade/adaptiveviscosity/)] [[Source code](https://github.com/rgoldade/AdaptiveViscositySolver)]
 
 * An Efficient Geometric Multigrid Solver for Viscous Liquids  
     Mridul Aanjaneya<sup>1</sup>, Chengguizi Han, **Ryan Goldade**, and Christopher Batty (<sup>1</sup>Lead and supervising author.)  
