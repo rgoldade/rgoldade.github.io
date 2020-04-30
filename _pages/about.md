@@ -15,7 +15,7 @@ I also work part-time for [SideFX Software](https://www.sidefx.com/) as a softwa
 Publications
 ======
 
-* Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening
+* Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening  
     **Ryan Goldade**, Mridul Aanjaneya, and Christopher Batty  
     *ACM Transaction on Graphics (SIGGRAPH Proceedings) 2020*  
     [[Project page](https://cs.uwaterloo.ca/~rgoldade/reducedfluids/)] [[Source code](https://github.com/rgoldade/ReducedFluids)]
