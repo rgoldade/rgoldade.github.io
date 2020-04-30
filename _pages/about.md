@@ -18,7 +18,7 @@ Publications
 * Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening
     **Ryan Goldade**, Mridul Aanjaneya, and Christopher Batty  
     *ACM Transaction on Graphics (SIGGRAPH Proceedings) 2020*  
-    [[Project page](https://github.com/rgoldade/ReducedFluids)] [[Source code](https://github.com/rgoldade/ReducedFluids)]
+    [[Project page](https://cs.uwaterloo.ca/~rgoldade/reducedfluids/)] [[Source code](https://github.com/rgoldade/ReducedFluids)]
 
 * An Adaptive Variational Finite Difference Framework for Efficient Symmetric Octree Viscosity  
     **Ryan Goldade**, Yipeng Wang, Mridul Aanjaneya, and Christopher Batty  
