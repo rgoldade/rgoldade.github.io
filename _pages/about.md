@@ -72,10 +72,10 @@ Education
 Work Experience
 ======
 
-* Weta Digital   
-    *June 2018 - July 2018*  
 * SideFX Software  
     *April 2016 - Present*  
+* Weta Digital   
+    *June 2018 - July 2018*  
 * IST Austria  
     *February 2014 - June 2014*  
 * Microsoft Canada  
