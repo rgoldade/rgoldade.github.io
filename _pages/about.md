@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in computer science at the University of Waterloo. My research focuses on fluid simulations with applications in computer graphics and I am supervised by [Dr. Christopher Batty](https://cs.uwaterloo.ca/~c2batty/). My research has been featured in [Motherboard](https://www.vice.com/en_us/article/kzkmwy/computer-animation-physics-christopher-batty-asmr), [80 Level](https://80.lv/articles/research-adaptive-framework-for-fluid-simulation-002sgr-006sdf/) and the SIGGRAPH [2019](https://www.youtube.com/watch?v=EhDr3Rs5fTU) and [2020](https://youtu.be/jYdMKdRUq_8) Technical Papers Preview.
+I recently joined Facebook Reality Labs in Pittsburgh as a Research Engineer!
 
-I also work part-time for [SideFX Software](https://www.sidefx.com/) as a software developer for their Houdini FX software package. I have designed several new features for their fluid simulation pipeline, such as the surface tension and suction fluid tools (16.0), narrow-band FLIP (16.5, 17.0, 17.5), air incompressibility (16.5), new ocean simulation tools (guided volumes and boundary layer) (16.0), and adaptive pressure projection (18.0). My adaptive viscosity research project has also been implemented as a plug-in to Houdini (17.5). My work has been featured on the Discovery Channel and my [Masterclass](https://vimeo.com/209763376) video, highlighting the new features I designed for Houdini 16, has over 45 thousand views.
+I'm also a soon-to-be-finished PhD student in computer science at the University of Waterloo. My research focuses on fluid simulations with applications in computer graphics and I am supervised by [Dr. Christopher Batty](https://cs.uwaterloo.ca/~c2batty/). My research has been featured in [Motherboard](https://www.vice.com/en_us/article/kzkmwy/computer-animation-physics-christopher-batty-asmr), [80 Level](https://80.lv/articles/research-adaptive-framework-for-fluid-simulation-002sgr-006sdf/) and the SIGGRAPH [2019](https://www.youtube.com/watch?v=EhDr3Rs5fTU) and [2020](https://youtu.be/jYdMKdRUq_8) Technical Papers Preview.
+
+During my PhD, I also worked part-time for [SideFX Software](https://www.sidefx.com/) as a software developer for their Houdini FX software package. I designed several new features for their fluid simulation pipeline, such as the surface tension and suction fluid tools (16.0), narrow-band FLIP (16.5, 17.0, 17.5), air incompressibility (16.5), new ocean simulation tools (guided volumes and boundary layer) (16.0), and adaptive pressure projection (18.0). My adaptive viscosity research project has also been implemented as a plug-in to Houdini (17.5). My work has been featured on the Discovery Channel and my [Masterclass](https://vimeo.com/209763376) video, highlighting the new features I designed for Houdini 16, has over 45 thousand views.
 
 Publications
 ======
@@ -72,8 +74,10 @@ Education
 Work Experience
 ======
 
+* Facebook Reality Labs
+    *May 2020 - Present*
 * SideFX Software  
-    *April 2016 - Present*  
+    *April 2016 - May 2020*  
 * Weta Digital   
     *June 2018 - July 2018*  
 * IST Austria  
