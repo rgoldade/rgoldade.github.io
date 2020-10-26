@@ -16,12 +16,7 @@ During my PhD, I also worked part-time for [SideFX Software](https://www.sidefx.
 
 Publications
 ======
-
-* Efficient Unified Stokes using a Polynomial Reduced Fluid Model  
-    Jonathan Panuelos, **Ryan Goldade**, and Christopher Batty  
-    *Symposium on Computer Animation 2020 (Poster)*  
-    [[Project page](https://jpanuelos.com/publications/2020-10-07-EfficientUnifiedStokes.html)]  
-    
+   
 * Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening  
     **Ryan Goldade**, Mridul Aanjaneya, and Christopher Batty  
     *ACM Transaction on Graphics (SIGGRAPH Proceedings) 2020*  
