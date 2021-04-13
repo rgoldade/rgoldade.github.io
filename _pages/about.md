@@ -65,7 +65,7 @@ Education
 ======
 
 * University of Waterloo - School of Computer Science  
-    *PhD candidate (present)*  
+    *PhD 2021*  
 * Simon Fraser University - School of Engineering Science  
     *MASc 2014*  
 * Simon Fraser University - School of Engineering Science  
