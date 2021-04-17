@@ -39,7 +39,7 @@ Publications
 
 Thesis, Posters, Etc.
 ======
-* Efficient Liquid Animation: New Discretizations for Spatially Adaptive Liquid Viscosity and Reduced-Model Two-Phase Bubbles and Inviscid Liquids
+* Efficient Liquid Animation: New Discretizations for Spatially Adaptive Liquid Viscosity and Reduced-Model Two-Phase Bubbles and Inviscid Liquids  
     **Ryan Goldade**  
     PhD Thesis (University of Waterloo) 2021  
     [[Project page](https://uwspace.uwaterloo.ca/handle/10012/16883)]
