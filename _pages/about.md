@@ -47,7 +47,7 @@ Thesis, Posters, Etc.
 * Constraint Bubbles: Adding Efficient Zero-Density Bubbles to Incompressible Free Surface Flow  
     **Ryan Goldade**, Christopher Batty  
     arXiv 2017. Superceded by [[Reduced Fluids](https://cs.uwaterloo.ca/~rgoldade/reducedfluids/)]  
-    [[Pre-print](https://arxiv.org/pdf/1711.11470.pdf)]
+    [[Pre-print](https://arxiv.org/abs/1711.11470)]
 
 * Towards Real-time Sea-floor Surface Reconstruction and Classification using 3-D Side-scan Sonar  
     **Ryan Goldade**  
