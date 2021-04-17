@@ -37,6 +37,17 @@ Publications
     Computer Graphics Forum (Eurographics) 2016  
     [[Project page](http://poisson.cs.uwaterloo.ca/errorcorrection/)]
 
+Thesis, Posters, Etc.
+======
+* Efficient Liquid Animation: New Discretizations for Spatially Adaptive Liquid Viscosity and Reduced-Model Two-Phase Bubbles and Inviscid Liquids
+    **Ryan Goldade**  
+    PhD Thesis (University of Waterloo) 2021  
+    [[Project page](https://uwspace.uwaterloo.ca/handle/10012/16883)]
+
+* Constraint Bubbles: Adding Efficient Zero-Density Bubbles to Incompressible Free Surface Flow
+    **Ryan Goldade**, Christopher Batty
+    [[Pre-print](https://arxiv.org/pdf/1711.11470.pdf)]. Superceded by [[Reduced Fluids](https://cs.uwaterloo.ca/~rgoldade/reducedfluids/)]
+
 * Towards Real-time Sea-floor Surface Reconstruction and Classification using 3-D Side-scan Sonar  
     **Ryan Goldade**  
     MASc Thesis (Simon Fraser University) 2014  
