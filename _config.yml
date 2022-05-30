@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ryan Goldade"
 title_separator          : "-"
 name                     : &name "Ryan Goldade"
-description              : &description "PhD candidate at University of Waterloo"
+description              : &description "Research Scientist"
 url                      : https://rgoldade.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rgoldade.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ryan Goldade"
   avatar           : "profile.png"
-  bio              : "Research Engineer @ Facebook Reality Labs Research"
-  location         : "Pittsbrugh"
+  bio              : "Research Scientist @ Meta Reality Labs Research"
+  location         : "Zurich"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=S6p28hUAAAAJ&hl=en"
