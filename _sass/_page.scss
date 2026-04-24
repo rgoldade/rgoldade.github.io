@@ -399,3 +399,52 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/* ==========================================================================
+   BLOG TWO-COLUMN LAYOUT (posts list + content)
+   ========================================================================== */
+
+.blog-with-sidebar {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+
+  .page {
+    flex: 1;
+    min-width: 0;
+    float: none;
+    width: auto;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+.blog-posts-list {
+  width: 220px;
+  flex-shrink: 0;
+  border-right: 1px solid $border-color;
+  padding-right: 1.5rem;
+
+  h3 { margin-top: 0; }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li { margin-bottom: 0.75rem; }
+
+  a.active {
+    font-weight: bold;
+    text-decoration: none;
+  }
+}
+
+.blog-main-content {
+  flex: 1;
+  min-width: 0;
+}

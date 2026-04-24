@@ -2,17 +2,17 @@
 layout: archive
 permalink: /blog/
 title: "Blog"
-author_profile: false
+author_profile: true
 mathjax: true
 ---
 
-<div style="display: flex; gap: 2rem; align-items: flex-start;">
+<div class="blog-with-sidebar">
 
-  <div style="width: 220px; flex-shrink: 0; border-right: 1px solid #e0e0e0; padding-right: 1.5rem;">
-    <h3 style="margin-top: 0;">Posts</h3>
-    <ul style="list-style: none; padding: 0; margin: 0;">
+  <div class="blog-posts-list">
+    <h3>Posts</h3>
+    <ul>
       {% for post in site.posts %}
-        <li style="margin-bottom: 0.75rem;">
+        <li>
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
           <br><small>{{ post.date | date: "%B %-d, %Y" }}</small>
         </li>
@@ -20,7 +20,7 @@ mathjax: true
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 0;">
+  <div class="blog-main-content">
     {% assign latest = site.posts.first %}
     {% if latest %}
       <h1>{{ latest.title }}</h1>
