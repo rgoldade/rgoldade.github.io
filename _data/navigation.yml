@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /
-  # - title: "Blog" 
-  #   url: /blog/
+  - title: "Blog"
+    url: /blog/
   - title: "CV"
     url: /files/cv.pdf
