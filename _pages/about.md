@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at Meta Reality Labs Research, where I focus on the intersection of physics-based simulation and machine learning. My current work involves developing differentiable simulation frameworks for anatomically-inspired human models and building efficient, neural-based pipelines for real-time avatar dynamics.
+I recently joined [Flexion Robotics](https://flexion.ai/) as a Senior Simulation Engineer.
+
+Previously, I was a Research Scientist at Meta Reality Labs Research, where I focused on the intersection of physics-based simulation and machine learning. My work involved developing differentiable simulation frameworks for anatomically-inspired human models and building efficient, neural-based pipelines for real-time avatar dynamics.
 
 Before joining Meta, I spent several years as a Simulation Developer at SideFX, contributing to the core FLIP-based fluid solvers in the VFX software package Houdini. I hold a Ph.D. in Computer Science from the University of Waterloo, where my research in fluid simulation and numerical PDEs earned the [2021 Alain Fournier Dissertation Award](https://graphicsinterface.org/awards/alain-fournier/ryan-goldade/).
 

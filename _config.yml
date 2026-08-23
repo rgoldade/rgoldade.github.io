@@ -11,7 +11,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Ryan Goldade"
 title_separator          : "-"
 name                     : &name "Ryan Goldade"
-description              : &description "Research Scientist"
+description              : &description "Senior Simulation Engineer"
 url                      : https://rgoldade.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rgoldade.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Ryan Goldade"
   avatar           : "profile.jpg"
-  bio              : "Research Scientist @ Meta Reality Labs Research"
+  bio              : "Senior Simulation Engineer @ Flexion Robotics"
   location         : "Zurich"
   employer         :
   pubmed           : 
